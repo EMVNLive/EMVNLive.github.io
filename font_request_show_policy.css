@@ -1,0 +1,73 @@
+h1.request_show_policy_title {
+	position: relative;
+	top: 50px;
+	font-family: "Lucida Console", Monospace, Courier;
+	font-weight: 900;
+	text-decoration: underline;
+	font-size: 45x;
+	text-align: center;
+}
+
+p.intro_request_show_policy {
+	font-size: 25px;
+	color: #9099A4;
+	position: relative;
+	margin: 0 auto;
+	top: 50px;
+	font-family: "Lucida Console", Monospace, Courier;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right; auto;
+}
+
+p.request_show_policy_explained {
+	font-size: 20px;
+	color: #9099A4;
+	position: relative;
+	margin: 0 auto;
+	top: 50px;
+	font-family: "Lucida Console", Monospace, Courier;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right; auto;
+}
+
+li.request_show_policy_list {
+	font-size: 20px;
+	color: #9099A4;
+	position: relative;
+	margin: 0 auto;
+	top: 50px;
+	font-family: "Lucida Console", Monospace, Courier;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right; auto;	
+}
+
+span.intro_marked {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 25px;
+	color: #000000;
+	position: relative;
+	margin: 0 auto;
+	top: 0px;
+	font-family: "Lucida Console", Monospace, Courier;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right; auto;	
+}
+
+span.policy_marked {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 20px;
+	color: #000000;
+	position: relative;
+	margin: 0 auto;
+	top: 0px;
+	font-family: "Lucida Console", Monospace, Courier;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right; auto;	
+}
