@@ -10,7 +10,7 @@ body {
     right: 0;
     background-color: #FFFFF;
 	overflow: auto;
-	background-image: url(EMVN_Banner.png);
+	background-image: url("EMVN_Banner.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
