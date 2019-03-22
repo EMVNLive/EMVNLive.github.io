@@ -20,10 +20,11 @@ p.intro_request_show_policy {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 37px;
+	font-weight: 600;
 }
 
 p.request_show_policy_explained {
-	font-size: 20px;
+	font-size: 22px;
 	color: #717d8c;
 	position: relative;
 	margin: 0 auto;
@@ -33,10 +34,11 @@ p.request_show_policy_explained {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 37px;
+	font-weight: 600;
 }
 
 li.request_show_policy_list {
-	font-size: 20px;
+	font-size: 22px;
 	color: #717d8c;
 	position: relative;
 	margin: 0 auto;
@@ -46,10 +48,11 @@ li.request_show_policy_list {
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 37px;
+	font-weight: 600;
 }
 
 span.intro_marked {
-	font-weight: bold;
+	font-weight: 900;
 	text-decoration: underline;
 	font-size: 25px;
 	color: #000000;
@@ -66,7 +69,7 @@ span.intro_marked {
 span.policy_marked {
 	font-weight: bold;
 	text-decoration: underline;
-	font-size: 20px;
+	font-size: 23px;
 	color: #000000;
 	position: relative;
 	margin: 0 auto;
@@ -76,4 +79,5 @@ span.policy_marked {
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 37px;
+	font-weight: 600;
 }

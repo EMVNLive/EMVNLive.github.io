@@ -39,7 +39,7 @@ p.contact_info_discord {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 30px;
-	font-weight: bolder;
+	font-weight: 900;
 }
 
 p.contact_info_email {
@@ -53,7 +53,7 @@ p.contact_info_email {
 	margin-left: auto;
 	margin-right: auto
 	line-height: 30px;
-	font-weight: bolder;
+	font-weight: 900;
 }
 
 span.DC_Username {
@@ -67,7 +67,7 @@ span.DC_Username {
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 30px;
-	font-weight: normal;
+	font-weight: 600;
 }
 
 span.email_address {
@@ -81,5 +81,5 @@ span.email_address {
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 30px;
-	font-weight: normal;
+	font-weight: 600;
 }

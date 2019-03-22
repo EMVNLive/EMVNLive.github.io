@@ -31,6 +31,7 @@ p.intro {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 37px;
+	font-weight: 600;
 }
 
 p.accepting_the_terms_paragraph {
@@ -44,6 +45,7 @@ p.accepting_the_terms_paragraph {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 37px;
+	font-weight: 600;
 }
 
 p.terms_of_service_paragraph {
@@ -57,6 +59,7 @@ p.terms_of_service_paragraph {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 37px;
+	font-weight: 600;
 }
 
 li.terms_of_service_list {
@@ -70,12 +73,13 @@ li.terms_of_service_list {
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 37px;
+	font-weight: 600;
 }
 
 span.restrictions_marked {
-	font-weight: bold;
+	font-weight: 900;
 	text-decoration: underline;
-	font-size: 22px;
+	font-size: 23px;
 	color: #000000;
 	position: relative;
 	margin: 0 auto;
