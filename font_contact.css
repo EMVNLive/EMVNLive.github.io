@@ -1,7 +1,7 @@
 h1.contact_discord_title {
 	position: relative;
 	top: 30px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	font-weight: 900;
 	text-decoration: underline;
 	font-size: 45x;
@@ -10,12 +10,13 @@ h1.contact_discord_title {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 900px;
+	line-height: 30px;
 }
 
 h1.contact_email_title{
 	position: relative;
 	top: 60px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	font-weight: 900;
 	text-decoration: underline;
 	font-size: 45x;
@@ -24,6 +25,7 @@ h1.contact_email_title{
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 900px;
+	line-height: 30px;
 }
 
 p.contact_info_discord {
@@ -32,10 +34,12 @@ p.contact_info_discord {
 	position: relative;
 	margin: 0 auto;
 	top: 40px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	max-width: 900px;
 	margin-left: auto;
-	margin-right; auto;
+	margin-right: auto;
+	line-height: 30px;
+	font-weight: bolder;
 }
 
 p.contact_info_email {
@@ -44,32 +48,38 @@ p.contact_info_email {
 	position: relative;
 	margin: 0 auto;
 	top: 70px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	max-width: 900px;
 	margin-left: auto;
-	margin-right; auto
+	margin-right: auto
+	line-height: 30px;
+	font-weight: bolder;
 }
 
 span.DC_Username {
 	font-size: 25px;
-	color: #9099A4;
+	color: #717d8c;
 	position: relative;
 	margin: 0 auto;
 	top: 0px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	max-width: 900px;
 	margin-left: auto;
-	margin-right; auto;	
+	margin-right: auto;	
+	line-height: 30px;
+	font-weight: normal;
 }
 
 span.email_address {
 	font-size: 25px;
-	color: #9099A4;
+	color: #717d8c;
 	position: relative;
 	margin: 0 auto;
 	top: 0px;
-	font-family: "Lucida Console", Monospace, Courier;
+	font-family: "Sans Serif", Monospace, Courier;
 	max-width: 900px;
 	margin-left: auto;
-	margin-right; auto;	
+	margin-right: auto;	
+	line-height: 30px;
+	font-weight: normal;
 }
