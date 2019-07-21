@@ -9,7 +9,7 @@ h1.contact_discord_title {
 	margin: 0 auto;
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 900px;
+	max-width: 950px;
 	line-height: 30px;
 	color: #FFFFFF;
 }
@@ -25,7 +25,7 @@ h1.contact_email_title{
 	margin: 0 auto;
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 900px;
+	max-width: 950px;
 	line-height: 30px;
 	color: #FFFFFF;
 }
@@ -37,7 +37,7 @@ p.contact_info_discord {
 	margin: 0 auto;
 	top: 40px;
 	font-family: "Sans Serif", Monospace, Courier;
-	max-width: 900px;
+	max-width: 950px;
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 30px;
@@ -51,7 +51,7 @@ p.contact_info_email {
 	margin: 0 auto;
 	top: 70px;
 	font-family: "Sans Serif", Monospace, Courier;
-	max-width: 900px;
+	max-width: 950px;
 	margin-left: auto;
 	margin-right: auto
 	line-height: 30px;
@@ -65,7 +65,7 @@ span.DC_Username {
 	margin: 0 auto;
 	top: 0px;
 	font-family: "Sans Serif", Monospace, Courier;
-	max-width: 900px;
+	max-width: 950px;
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 30px;
@@ -79,7 +79,7 @@ span.email_address {
 	margin: 0 auto;
 	top: 0px;
 	font-family: "Sans Serif", Monospace, Courier;
-	max-width: 900px;
+	max-width: 950px;
 	margin-left: auto;
 	margin-right: auto;	
 	line-height: 30px;
